@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EdithSylvester
 - 👀 I’m interested in learning to code
 - 🌱 I’m currently learning java script
-- 💞️ I’m looking to collaborate on junior projects
+- 💞️ I’m looking to collaborate as a junior developer
 - 📫 How to reach me -> gitHub
 
 <!---
