@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EdithSylvester
-- 👀 I’m interested in learning to code
-- 🌱 I’m currently learning java script
+- 👀 I’m interested in coding
+- 🌱 I’m currently gettin my certification in Full Stack.
 - 💞️ I’m looking to collaborate as a junior developer
 - 📫 How to reach me -> gitHub
 
